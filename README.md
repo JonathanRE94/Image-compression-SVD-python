@@ -4,7 +4,7 @@
 # Image Compression using Singular Value Decomposition (SVD)
 
 This repository contains a **Python implementation of image compression** using the **Singular Value Decomposition (SVD)** method.  
-Developed as part of **MAE 501 coursework**, it demonstrates **low-rank approximation** of images, trade-offs between **compression ratio** and **reconstruction error**, and practical image compression.
+Developed as part of **Linear Algebra coursework**, it demonstrates **low-rank approximation** of images, trade-offs between **compression ratio** and **reconstruction error**, and practical image compression.
 
 ---
 
